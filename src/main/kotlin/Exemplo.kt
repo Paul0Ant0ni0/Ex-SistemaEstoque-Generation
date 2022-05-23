@@ -1,6 +1,6 @@
 fun main() {
 
-    /*
+    
     Collections - variaveis que armazenaram mais de um valor
 
     As principais Collections do Kotlin é: Array, List, Set e Map
@@ -11,7 +11,7 @@ fun main() {
 
     val num = arrayOf("Haskdjla")
 
-     */
+    
 
     //Exemplo utilizando o Array
 
